@@ -1,4 +1,4 @@
-## Oii eu sou a Lucas Lopes, Desenvolvedor FullStack!
+## Oii eu sou o Lucas Lopes, Desenvolvedor FullStack!
 
 
 <div style="display: inline_block"><br>
